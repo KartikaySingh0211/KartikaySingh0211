@@ -1,16 +1,34 @@
-## Hi there 👋
+## 👋 Hey there, I'm Kartikay!  
+**A Passionate Coder | Sports Enthusiast | Space Geek 🚀**  
 
-<!--
-**KartikaySingh0211/KartikaySingh0211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me  
+- 🎓 Student & Lifelong Learner  
+- 💻 Passionate about **coding** and solving real-world problems  
+- 🏅 Love **sports** and the competitive spirit that comes with it  
+- 🌌 Could talk about **space** for hours—black holes, quantum physics, or interstellar travel? Count me in!  
 
-Here are some ideas to get you started:
+### 🔥 What I Do  
+- 🛠 **Code & Build** - Exploring different programming languages and working on projects that challenge me.  
+- 💡 **Learn & Innovate** - Constantly improving and finding new ways to write better code.  
+- 🤝 **Collaborate** - Open to contributing to projects and engaging with like-minded devs.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack  
+🚀 **Languages:** JavaScript, Typescript, Java, C, C++  
+🔧 **Tools & Frameworks:** Git, Node.js, React, Express, Tailwindcss, NextJS 
+⚙️ **Databases:** MySQL, MongoDB  
+
+### 📈 GitHub Stats  
+![Kartikay Singh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KartikaySingh0211&show_icons=true&theme=radical)  
+
+### 🌱 Currently Learning  
+- Advanced **Data Structures & Algorithms**
+- **MERN** Stack
+- **SpringBoot** Java backend  
+- **Machine Learning** & AI applications  
+- More about **Astrophysics** because space is just too cool!  
+
+### 💬 Let's Connect!   
+- 💼 LinkedIn: www.linkedin.com/in/kartikaysingh0211  
+- 📧 Email: kartikay.singh.0211@gmail.com  
+
+_🚀 "Keep pushing limits. The universe is infinite, so is our potential." ✨_
