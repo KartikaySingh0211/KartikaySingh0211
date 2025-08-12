@@ -14,17 +14,16 @@
 
 ### 💻 Tech Stack  
 🚀 **Languages:** JavaScript, Typescript, Java, C, C++  
-🔧 **Tools & Frameworks:** Git, Node.js, React, Express, Tailwindcss, NextJS 
+🔧 **Tools & Frameworks:** Git, Node.js, React, Tailwindcss, NextJS 
 ⚙️ **Databases:** MySQL, MongoDB  
 
 ### 📈 GitHub Stats  
 ![Kartikay Singh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KartikaySingh0211&show_icons=true&theme=radical)  
 
 ### 🌱 Currently Learning  
-- Advanced **Data Structures & Algorithms**
-- **MERN** Stack
+- **Data Structures & Algorithms**
 - **SpringBoot** Java backend  
-- **Machine Learning** & AI applications  
+- **DevOps** & **Microservices**  
 - More about **Astrophysics** because space is just too cool!  
 
 ### 💬 Let's Connect!   
