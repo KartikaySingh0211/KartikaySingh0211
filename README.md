@@ -13,11 +13,11 @@
 - 🤝 **Collaborate** - Open to contributing to projects and engaging with like-minded devs.  
 
 ### 💻 Tech Stack  
-🚀 **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3, NodeJS, SQL, PL/SQL, Python, Java, C, C++  
-⚙️ **Frameworks & Backend:** Next.js, NestJS, Express.js, Hono
-📚 **Frontend Libraries:** React.js, React Router DOM, Redux, Recoil
-🛢️ **Databases & ORM:** PostgreSQL, MySQL, Prisma ORM, Mongoose ORM
-🌐 **Tools & Platforms:** Git, Cloudflare Workers, Cloudinary, REST APIs, Monorepo Architecture
+- 🚀 **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3, NodeJS, SQL, PL/SQL, Python, Java, C, C++  
+- ⚙️ **Frameworks & Backend:** Next.js, NestJS, Express.js, Hono
+- 📚 **Frontend Libraries:** React.js, React Router DOM, Redux, Recoil
+- 🛢️ **Databases & ORM:** PostgreSQL, MySQL, Prisma ORM, Mongoose ORM
+- 🌐 **Tools & Platforms:** Git, Cloudflare Workers, Cloudinary, REST APIs, Monorepo Architecture
 
 ### 📈 GitHub Stats  
 ![Kartikay Singh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KartikaySingh0211&show_icons=true&theme=radical)  
