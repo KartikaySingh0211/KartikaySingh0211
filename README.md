@@ -13,17 +13,18 @@
 - 🤝 **Collaborate** - Open to contributing to projects and engaging with like-minded devs.  
 
 ### 💻 Tech Stack  
-🚀 **Languages:** JavaScript, Typescript, Java, C, C++  
-🔧 **Tools & Frameworks:** Git, Node.js, React, Tailwindcss, NextJS 
-⚙️ **Databases:** MySQL, MongoDB  
+🚀 **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3, NodeJS, SQL, PL/SQL, Python, Java, C, C++  
+⚙️ **Frameworks & Backend:** Next.js, NestJS, Express.js, Hono
+📚 **Frontend Libraries:** React.js, React Router DOM, Redux, Recoil
+🛢️ **Databases & ORM:** PostgreSQL, MySQL, Prisma ORM, Mongoose ORM
+🌐 **Tools & Platforms:** Git, Cloudflare Workers, Cloudinary, REST APIs, Monorepo Architecture
 
 ### 📈 GitHub Stats  
 ![Kartikay Singh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KartikaySingh0211&show_icons=true&theme=radical)  
 
 ### 🌱 Currently Learning  
-- **Data Structures & Algorithms**
-- **SpringBoot** Java backend  
-- **DevOps** & **Microservices**  
+- **Data Structures & Algorithms** 
+- **DevOps** & **MLOps**  
 - More about **Astrophysics** because space is just too cool!  
 
 ### 💬 Let's Connect!   
