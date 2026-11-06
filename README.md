@@ -1,80 +1,89 @@
-# 👋 Hey, I'm Kartikay  
-**Software Engineer | Performance-Focused Developer | Space Enthusiast 🚀**
+# 👋 Hey, I'm Kartikay
 
-I build fast, scalable, and reliable web applications. I enjoy designing systems that feel smooth, scale well, and stay performant from the UI down to the database layer. Outside tech, I’m big on sports and endlessly curious about the universe.
+**Software Engineer | Backend Engineering | Systems & DevOps Enthusiast 🚀**
 
----
+I enjoy building reliable software systems, designing backend architectures, and understanding how things work under the hood. My interests span backend engineering, databases, system design, and infrastructure.
 
-# 🧑‍💻 Summary  
-- Improved system performance and reduced API latency by **30–35%**.  
-- Built responsive, accessible interfaces with **95+ Lighthouse scores**.  
-- Developed platforms serving thousands of students with consistent performance.  
-- Experienced across frontend, backend, and database systems.  
-- Led dev teams while maintaining code quality and timely delivery.
+Currently strengthening my foundations in **backend engineering, DevOps, DSA, and core computer science fundamentals** while building practical projects.
+
+Outside technology, I'm passionate about sports and endlessly curious about space.
 
 ---
 
-# 🛠️ Technical Skills  
-**Languages:** JavaScript (ES6+), TypeScript, SQL, PL/SQL, Python, Java, C, C++  
-**Frameworks:** Next.js, NestJS, Express.js, Hono  
-**Libraries:** React, Redux, Recoil, React Router DOM  
-**Databases:** PostgreSQL, MySQL  
-**ORMs:** Prisma, Mongoose  
-**Tools:** Git, Cloudflare Workers, Cloudinary, REST APIs, Monorepo Architecture  
+## 🧑‍💻 About Me
+
+- Build full-stack applications with an emphasis on backend architecture and system reliability.
+- Experience designing and developing REST APIs, database-driven applications, and scalable application architectures.
+- Worked with platforms serving thousands of users.
+- Led development teams, made architectural decisions, and collaborated across development workflows.
+- Currently deepening my knowledge of DevOps, infrastructure, and computer science fundamentals.
 
 ---
 
-# 🎯 Tech Focus Areas  
+## 🛠️ Technical Skills
 
-## 🖥️ Frontend Engineering  
-`🟦 React` `🟪 Next.js` `🟨 UI/UX` `🟩 Accessibility` `🟥 Performance`  
-
-- Build fast, accessible, mobile-first interfaces  
-- Component-driven development with React & Next.js  
-- SEO-friendly and Lighthouse-optimized frontend experiences  
-
----
-
-## 🛠️ Backend & APIs  
-`🟧 API Design` `🟦 NestJS` `🟩 Express` `🟥 Hono` `🟪 Edge Runtimes`  
-
-- Design scalable REST APIs with clean architecture  
-- Optimize route execution and database workflows  
-- Deploy ultra-low-latency APIs using Cloudflare Workers  
+**Languages:** JavaScript, TypeScript, SQL, Python  
+**Frontend:** React.js, Next.js, Tailwind CSS  
+**Backend:** Node.js, NestJS, Express.js 
+**Databases:** PostgreSQL, MySQL, MongoDB  
+**ORMs:** Prisma, Drizzle ORM  
+**Infrastructure & Tools:** Docker, Redis, Git, GitHub, Cloudflare R2, Cloudinary, FFmpeg  
+**Concepts:** REST APIs, System Design, Database Design, Caching, HLS Video Streaming
 
 ---
 
-## 🗄️ Databases & Data Layer  
-`🟩 PostgreSQL` `🟦 MySQL` `🟪 Prisma` `⬛ Mongoose` `🟫 Query Optimization`  
+## 🎯 Areas of Focus
 
-- Production-grade relational database experience  
-- Schema modeling, relational design, and ORM-based workflows  
-- Query optimization + connection pooling for better performance  
+### ⚙️ Backend Engineering
+- Designing modular and maintainable backend architectures.
+- Building REST APIs using NestJS, Node.js, and TypeScript.
+- Authentication, authorization, validation, and API security.
+- Building asynchronous workflows and integrating external services.
 
----
+### 🗄️ Databases & Systems
+- Relational database design and query optimization.
+- PostgreSQL, indexing, transactions, and connection management.
+- Caching strategies and Redis.
+- Understanding system behavior, scalability, and reliability.
 
-## 🏗️ System Architecture  
-`🟥 Monorepo` `🟩 Scalability` `🟧 System Design` `🟦 Dev Workflow`  
+### 🐳 DevOps & Infrastructure
+- Learning containerization and infrastructure workflows with Docker.
+- Exploring CI/CD, deployment, monitoring, and system reliability.
+- Understanding how applications are built, shipped, and operated in production.
 
-- Monorepo-based architecture for shared logic  
-- Clean codebases with modular, scalable structure  
-- End-to-end system thinking across frontend + backend + DB  
-
----
-
-## ⚡ Performance & Reliability  
-`🟨 Optimization` `🟥 Latency Reduction` `🟦 Lighthouse` `🟩 Load Time`  
-
-- Reduced backend latency by **30–35%**  
-- Improved load times through optimized data flows and image handling  
-- Strong emphasis on caching, prefetching, and efficient data access  
-
----
-
-# 📬 Contact  
-📧 Email: **kartikay.singh.0211@gmail.com**  
-🔗 LinkedIn: **https://www.linkedin.com/in/kartikaysingh0211**  
+### 🖥️ Full-Stack Development
+- Building responsive applications with React and Next.js.
+- Integrating frontend applications with backend services.
+- Designing clean application architecture and reusable components.
 
 ---
 
-_“The universe keeps expanding — so does what we can build.”_
+## 🚀 Selected Work
+
+### Vedora — Video Infrastructure SaaS
+A video infrastructure platform built around asynchronous video processing and cloud storage.
+
+- Built with NestJS, TypeScript, Next.js, PostgreSQL, Drizzle ORM, Redis, and Docker.
+- Implemented direct-to-cloud uploads using Cloudflare R2.
+- Developed an asynchronous FFmpeg-based transcoding pipeline with HLS playback.
+- Worked on API-key authentication, caching, storage quotas, and video analytics.
+
+---
+
+## 📚 Currently Learning
+
+- DevOps and infrastructure engineering
+- Data Structures & Algorithms
+- Operating Systems, DBMS, and Computer Networks
+- System Design and backend fundamentals
+
+---
+
+## 📬 Connect With Me
+
+📧 **Email:** kartikay.singh.0211@gmail.com  
+🔗 **LinkedIn:** [linkedin.com/in/kartikaysingh0211](https://www.linkedin.com/in/kartikaysingh0211)
+
+---
+
+*“The universe keeps expanding — so does what we can build.”* 🚀
